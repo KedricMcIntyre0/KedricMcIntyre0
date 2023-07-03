@@ -1,6 +1,3 @@
-- 👋 Hi, I’m Kedric McIntyre
-- 👀 I’m interested in weight training and reading.
-- 🌱 I’m currently learning JavaScript and C#
-- 💞️ I’m looking to collaborate on any programs.
-- 📫 How to reach me kedricmcintyre@gmail.com
-
+console.log("Hello, World i'm Kedric" + whatILike)
+const whatILike = "I like lifting weights, traveling and code"
+output: him
